@@ -23,5 +23,5 @@ mkdir semana5
 cd ./semana5
 mkdir miercoles jueves viernes 
 cd ..
-
+mkdir modificacion
 
